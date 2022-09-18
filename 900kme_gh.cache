@@ -1,0 +1,26 @@
+CACHE MANIFEST 
+# Kameleon 900FW AUTO
+
+bg.jpg
+cache.html
+favicon.ico
+index.html
+pl_goldhen20b2.bin
+pl_goldhen21.bin
+pl_goldhen211.bin
+pl_goldhen212.bin
+pl_goldhen22.bin
+pl_goldhen221.bin
+pl_goldhen222.bin
+pl_goldhen224.bin
+pl_goldhen23b2.bin
+pl_mira_ldr.bin
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online:
+
+# Date: 06/15/2022  10:00:00.00
+
